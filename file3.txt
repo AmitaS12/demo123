@@ -1,2 +1,5 @@
 initial file 3 text in master branch 
  stashed command
+
+
+stashed changes-----------------
