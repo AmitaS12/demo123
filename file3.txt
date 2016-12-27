@@ -1,2 +1,2 @@
-initial file 2 text in master branch 
-More changes to file 2 
+initial file 3 text in master branch 
+ stashed command
